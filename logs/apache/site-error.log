@@ -1,0 +1,1 @@
+[Fri Mar 12 00:37:27.605744 2021] [proxy_fcgi:error] [pid 560:tid 1312] (70007)The timeout specified has expired: [client 127.0.0.1:49875] AH01075: Error dispatching request to :10004: (polling), referer: http://jowal-university.local/wp-cron.php?doing_wp_cron=1615498587.1783030033111572265625
