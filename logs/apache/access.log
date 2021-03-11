@@ -1,0 +1,11 @@
+127.0.0.1 - - [08/Mar/2021:19:59:40 +0300] "GET / HTTP/1.0" 200 11042
+127.0.0.1 - - [08/Mar/2021:20:00:33 +0300] "GET /wp-includes/css/dist/block-library/theme.min.css?ver=5.2.1 HTTP/1.0" 200 1495
+127.0.0.1 - - [08/Mar/2021:20:00:33 +0300] "GET /wp-includes/css/dist/block-library/style.min.css?ver=5.2.1 HTTP/1.0" 200 29295
+127.0.0.1 - - [08/Mar/2021:20:00:33 +0300] "GET /wp-content/themes/twentynineteen/style.css?ver=1.4 HTTP/1.0" 200 212849
+127.0.0.1 - - [08/Mar/2021:20:00:00 +0300] "GET / HTTP/1.0" 200 11042
+127.0.0.1 - - [08/Mar/2021:20:00:33 +0300] "GET /wp-includes/js/wp-embed.min.js?ver=5.2.1 HTTP/1.0" 200 1403
+127.0.0.1 - - [08/Mar/2021:20:00:35 +0300] "GET /wp-content/themes/twentynineteen/print.css?ver=1.4 HTTP/1.0" 200 3949
+127.0.0.1 - - [08/Mar/2021:20:00:35 +0300] "GET /wp-includes/js/wp-emoji-release.min.js?ver=5.2.1 HTTP/1.0" 200 13840
+127.0.0.1 - - [08/Mar/2021:20:00:30 +0300] "POST /wp-cron.php?doing_wp_cron=1615222828.7677729129791259765625 HTTP/1.0" 200 -
+127.0.0.1 - - [08/Mar/2021:20:00:36 +0300] "GET /favicon.ico HTTP/1.0" 200 -
+127.0.0.1 - - [08/Mar/2021:20:00:57 +0300] "GET /favicon.ico HTTP/1.0" 200 -
